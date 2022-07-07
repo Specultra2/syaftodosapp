@@ -22,7 +22,9 @@ An app that users can list their to do things
 # Demo
 **Add todos**
 - https://drive.google.com/file/d/1EHJeLnI9lzAriScePnR_kV2mlKeuT9hU/view?usp=sharing
+
 **Mark todos as completed**
 - https://drive.google.com/file/d/1EN2cSpmaJT1dwt2R9EEKhD0ZjSq1r25G/view?usp=sharing
+
 **Delete todos**
 - https://drive.google.com/file/d/1EUQqXJzT3H3XN36bnwwDSrRLZNF89Eyb/view?usp=sharing
