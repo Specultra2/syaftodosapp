@@ -10,6 +10,7 @@ An app that users can list their to do things
 - Run npm install
 - Run npm start
 - Press i to run in iOS simulator or press a for Android
+
 **Mobile Device**
 - Download Expo app
 - Scan QR code from mobile or Open explore tab, Press search and Enter url shown in terminal.
